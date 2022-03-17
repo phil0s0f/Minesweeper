@@ -1,0 +1,7 @@
+const int KEY_UP = 72; // "вверх"
+const int KEY_DOWN = 80; // "вниз"
+const int KEY_LEFT = 75; // "влево"
+const int KEY_RIGHT = 77; // "вправо"
+const int KEY_SPACE = 32; // "пробел"
+const int KEY_ESC = 27; // "escape"
+const int KEY_ENTER = 13; // "enter"
